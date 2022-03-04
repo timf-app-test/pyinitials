@@ -6,6 +6,9 @@ authors = ["Rob van der Leek <robvanderleek@gmail.com>"]
 readme = "README.md"
 license = "ISC"
 
+[dependencies]
+Click = "^7.0"
+
 [tool.poetry.dependencies]
 python = "^3.9"
 
